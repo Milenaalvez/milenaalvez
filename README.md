@@ -55,7 +55,7 @@ Meu objetivo é transformar **dados em insights úteis para tomada de decisão**
 
 ## 🐍 Contribuições
 
-![snake](https://github.com/milenaalvez/milenaalvez/blob/output/github-snake.svg)
+![snake dark](https://github.com/milenaalvez/milenaalvez/blob/output/github-snake-dark.svg)
 
 ---
 
