@@ -13,14 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo
+      - name: checkout repository
         uses: actions/checkout@v4
 
       - name: generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: milenaalvez
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: deploy snake
         uses: JamesIves/github-pages-deploy-action@v4
