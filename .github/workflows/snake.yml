@@ -9,17 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
       - name: generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: milenaalvez
           outputs: dist/github-snake.svg
 
-      - name: push snake
+      - name: deploy snake
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
