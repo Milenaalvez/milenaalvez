@@ -53,14 +53,6 @@ Meu objetivo é transformar **dados em insights úteis para tomada de decisão**
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=milenaalvez\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milenaalvez\&layout=compact\&theme=tokyonight)
-
----
-
 # 🐍 Contribuições
 
 ![snake](https://github.com/milenaalvez/milenaalvez/blob/output/github-snake.svg)
