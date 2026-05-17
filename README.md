@@ -1,70 +1,64 @@
 # 👩‍💻 Milena de Oliveira Alves
 
-Olá pessoas! 👋
-Seja bem-vindo(a) ao meu GitHub.
+Hey! Welcome to my GitHub 👋
 
-Sou apaixonada por **Análise de Dados, tecnologia e resolução de problemas com dados**.
-Meu objetivo é transformar **dados em insights úteis para tomada de decisão**.
+I'm a Software Engineering student focused on UI/UX Design and Full Stack Development, passionate about creating modern, intuitive and visually engaging digital experiences.
 
-🎓 **Graduanda em Engenharia de Software – CEUB**
-📊 Foco em **Análise de Dados, SQL e Cloud (AWS)**
-
----
-
-# 📊 Sobre mim
-
-* 📈 Análise e visualização de dados
-* 🧹 Limpeza e tratamento de dados
-* 🤖 Introdução a Machine Learning
-* ☁️ Computação em nuvem (AWS)
-* 📊 Desenvolvimento de dashboards e relatórios
+🎓 Software Engineering Student — CEUB  
+🎨 UI/UX Designer  
+💻 Front-End & Full Stack Developer  
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+# 🚀 About Me
 
-## 📊 Data Analytics
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
-
----
-
-## 📈 Data Visualization
-
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge\&logo=canva)
+- 🎨 Creating modern and interactive interfaces
+- 💡 Focused on user experience and visual design
+- ⚡ Building responsive web applications
+- 🧠 Constantly improving my design and development skills
+- 🌎 Passionate about technology and digital products
 
 ---
 
-## 💻 Desenvolvimento
+# 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+## 🎨 Design
 
----
-
-## ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
 ---
 
-## 🐍 Contribuições
+## 💻 Front-End
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## ⚙️ Back-End
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+---
+
+# 🌌 Current Focus
+
+- UI/UX Design
+- Front-End Development
+- Interactive Interfaces
+- Modern Web Experiences
+- Full Stack Applications
+
+---
+
+# 🐍 Contributions
 
 ![snake dark](https://github.com/milenaalvez/milenaalvez/blob/output/github-snake-dark.svg)
-
----
-
-# 📚 Atualmente estudando
-
-* Python para análise de dados
-* SQL para análise e consultas
-* Visualização de dados com Power BI
-* Machine Learning básico
 
 ---
 
