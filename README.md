@@ -1,33 +1,25 @@
 # 👩‍💻 Milena de Oliveira Alves
 
-Hey! Welcome to my GitHub 👋
+Oii pessoas!
 
-I'm a Software Engineering student focused on UI/UX Design and Full Stack Development, passionate about creating modern, intuitive and visually engaging digital experiences.
+I'm a Software Engineering student focused on Full Stack Development, passionate about building scalable, efficient and modern web applications.
 
 🎓 Software Engineering Student — CEUB  
-🎨 UI/UX Designer  
-💻 Front-End & Full Stack Developer  
+💻 Full Stack Developer  
 
 ---
 
 # 🚀 About Me
 
-- 🎨 Creating modern and interactive interfaces
-- 💡 Focused on user experience and visual design
-- ⚡ Building responsive web applications
-- 🧠 Constantly improving my design and development skills
-- 🌎 Passionate about technology and digital products
+- 💻 Developing full stack web applications
+- ⚡ Building responsive and modern digital solutions
+- 🧠 Constantly improving my programming and software development skills
+- 🔍 Focused on clean code, performance and best practices
+- 🌎 Passionate about technology and problem-solving
 
 ---
 
 # 💻 Tech Stack
-
-## 🎨 Design
-
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-
----
 
 ## 💻 Front-End
 
@@ -43,16 +35,24 @@ I'm a Software Engineering student focused on UI/UX Design and Full Stack Develo
 ## ⚙️ Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+---
+
+## 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ---
 
 # 🌌 Current Focus
 
-- UI/UX Design
-- Front-End Development
-- Interactive Interfaces
-- Modern Web Experiences
-- Full Stack Applications
+- Full Stack Development
+- React & TypeScript
+- Node.js APIs
+- Database Modeling
+- Modern Web Applications
 
 ---
 
@@ -62,5 +62,4 @@ I'm a Software Engineering student focused on UI/UX Design and Full Stack Develo
 
 ---
 
-⭐ *“Se você pode sonhar, você pode realizar.”*
-
+⭐ *“Transforming ideas into functional and impactful digital solutions.”*
