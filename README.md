@@ -1,8 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=20,24,30&text=Milena%20Oliveira%20Alves&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+# Milena Oliveira Alves
+
+### Full Stack Developer
 
 </div>
+
 ---
 
 <div align="center">
@@ -35,11 +38,9 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 ## 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
