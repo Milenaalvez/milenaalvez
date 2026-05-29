@@ -1,10 +1,16 @@
+<div align="center">
+
 # ✨ Welcome to my GitHub
 
 ### Milena Oliveira Alves
 
 *Full Stack Developer*
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌙 About Me
 
@@ -14,7 +20,11 @@ Building modern web applications with React, TypeScript, Node.js, Python and rel
 
 Passionate about technology, continuous learning and creating meaningful digital solutions.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💜 Tech Stack
 
@@ -34,11 +44,13 @@ PostgreSQL • MySQL
 
 Git • GitHub • VS Code • Figma
 
+</div>
+
 ---
 
-## 🌸 Connect With Me
-
 <div align="center">
+
+## 🌸 Connect With Me
 
 <a href="https://www.linkedin.com/in/milena-de-oliveira-alves-6b04052a6/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,9 +64,9 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
+
+## 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
 
@@ -62,9 +74,9 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
+
+## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Milenaalvez/Milenaalvez/output/github-contribution-grid-snake-dark.svg)
 
