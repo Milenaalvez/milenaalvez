@@ -1,9 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=20,24,30&text=Milena%20Oliveira%20Alves&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
-
 ---
 
 <div align="center">
