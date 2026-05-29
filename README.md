@@ -1,34 +1,75 @@
+```md
 <div align="center">
 
-<!-- COLOQUE AQUI SEU BANNER PERSONALIZADO -->
-
-<img width="100%" src="./banner.png"/>
+<img width="100%" src="./assets/banner.png"/>
 
 </div>
 
 ---
 
-## ✦ About Me
+<div align="center">
+
+## 🌙 About Me
+
+</div>
 
 Software Engineering student at **CEUB** focused on **Full Stack Development**.
 
-I enjoy building modern web applications, solving problems through technology and continuously improving my skills. Currently working with React, TypeScript, Node.js, Python and relational databases while exploring software architecture and scalable solutions.
+I enjoy building modern web applications, solving problems through technology and continuously improving my skills.
+
+Focused on creating scalable solutions using modern technologies while exploring software architecture and best development practices.
 
 ---
 
-## ✦ Tech Stack
+<div align="center">
+
+## 💜 Technologies
+
+</div>
+
+### Front-End
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,python,postgres,mysql,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind"/>
+
+</div>
+
+<br>
+
+### Back-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,python"/>
+
+</div>
+
+<br>
+
+### Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</div>
+
+<br>
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-## ✦ Contribution Streak
-
 <div align="center">
+
+## 🔥 Statistics
 
 <img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
 
@@ -36,9 +77,11 @@ I enjoy building modern web applications, solving problems through technology an
 
 ---
 
-## ✦ Connect With Me
-
 <div align="center">
+
+## 🌸 Connect With Me
+
+<br>
 
 <a href="https://www.linkedin.com/in/milena-de-oliveira-alves-6b04052a6/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,8 +99,10 @@ I enjoy building modern web applications, solving problems through technology an
 
 ### Full Stack Developer
 
-<sub>Software Engineering Student • CEUB</sub>
+Software Engineering Student • CEUB
 
 </div>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
+
+```
