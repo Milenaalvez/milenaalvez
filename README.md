@@ -1,10 +1,6 @@
 <div align="center">
 
-# Milena Oliveira Alves
-
-### Full Stack Developer
-
-React • TypeScript • Node.js • Python • Prisma
+<img width="100%" src="./assets/banner.png"/>
 
 </div>
 
@@ -14,9 +10,9 @@ React • TypeScript • Node.js • Python • Prisma
 
 ## 🌙 About Me
 
-Software Engineering student at CEUB.
+Software Engineering student at **CEUB** focused on Full Stack Development.
 
-Focused on building modern web applications with React, TypeScript, Node.js and Python.
+Building modern web applications with React, TypeScript, Node.js, Python and relational databases.
 
 Passionate about technology, continuous learning and creating meaningful digital solutions.
 
@@ -26,23 +22,23 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 <div align="center">
 
-## 💜 Technologies
+## 💜 Tech Stack
 
-### Front-End
+<br>
 
-React • TypeScript • JavaScript • HTML • CSS • TailwindCSS
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,python,postgres,mysql,git,github,vscode,figma&perline=7"/>
 
-### Back-End
+</div>
 
-Node.js • Python • Prisma
+---
 
-### Database
+<div align="center">
 
-PostgreSQL • MySQL
+## 📊 GitHub Statistics
 
-### Tools
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-Git • GitHub • VS Code • Figma
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -53,6 +49,26 @@ Git • GitHub • VS Code • Figma
 ## 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milenaalvez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=D8B4FE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/Milenaalvez/Milenaalvez/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -78,8 +94,8 @@ Git • GitHub • VS Code • Figma
 
 ### 💜 Full Stack Developer
 
-Software Engineering Student • CEUB
+<sub>Software Engineering Student • CEUB</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED"/>
