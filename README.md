@@ -2,8 +2,6 @@
 
 # Milena Oliveira Alves
 
-### Full Stack Developer
-
 </div>
 
 ---
