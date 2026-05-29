@@ -1,7 +1,10 @@
-```md
 <div align="center">
 
-<img width="100%" src="./assets/banner.png"/>
+# Milena Oliveira Alves
+
+### Full Stack Developer
+
+React • TypeScript • Node.js • Python • Prisma
 
 </div>
 
@@ -11,13 +14,13 @@
 
 ## 🌙 About Me
 
+Software Engineering student at CEUB.
+
+Focused on building modern web applications with React, TypeScript, Node.js and Python.
+
+Passionate about technology, continuous learning and creating meaningful digital solutions.
+
 </div>
-
-Software Engineering student at **CEUB** focused on **Full Stack Development**.
-
-I enjoy building modern web applications, solving problems through technology and continuously improving my skills.
-
-Focused on creating scalable solutions using modern technologies while exploring software architecture and best development practices.
 
 ---
 
@@ -25,43 +28,21 @@ Focused on creating scalable solutions using modern technologies while exploring
 
 ## 💜 Technologies
 
-</div>
-
 ### Front-End
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind"/>
-
-</div>
-
-<br>
+React • TypeScript • JavaScript • HTML • CSS • TailwindCSS
 
 ### Back-End
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,python"/>
-
-</div>
-
-<br>
+Node.js • Python • Prisma
 
 ### Database
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-</div>
-
-<br>
+PostgreSQL • MySQL
 
 ### Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+Git • GitHub • VS Code • Figma
 
 </div>
 
@@ -69,7 +50,7 @@ Focused on creating scalable solutions using modern technologies while exploring
 
 <div align="center">
 
-## 🔥 Statistics
+## 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
 
@@ -80,8 +61,6 @@ Focused on creating scalable solutions using modern technologies while exploring
 <div align="center">
 
 ## 🌸 Connect With Me
-
-<br>
 
 <a href="https://www.linkedin.com/in/milena-de-oliveira-alves-6b04052a6/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -97,12 +76,10 @@ Focused on creating scalable solutions using modern technologies while exploring
 
 <div align="center">
 
-### Full Stack Developer
+### 💜 Full Stack Developer
 
 Software Engineering Student • CEUB
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
-
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED">
