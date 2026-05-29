@@ -46,17 +46,6 @@ Passionate about technology, problem solving and building modern web application
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
