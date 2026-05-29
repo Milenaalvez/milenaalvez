@@ -6,10 +6,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Full%20Stack-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TypeScript-C084FC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-D8B4FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-C084FC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-A78BFA?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -25,33 +25,16 @@ role: Full Stack Developer
 education:
   - Software Engineering @ CEUB
 
-focus:
-  - Front-End Development
-  - Back-End Development
-  - Full Stack Applications
-  - Modern Web Technologies
+about:
+  - Passionate about technology and problem solving
+  - Building modern and scalable web applications
+  - Creating digital solutions that make an impact
+  - Constantly learning and improving my skills
 
-tech_stack:
-  frontend:
-    - React
-    - TypeScript
-    - JavaScript
-    - Tailwind CSS
-
-  backend:
-    - Node.js
-    - Python
-    - Prisma ORM
-
-  databases:
-    - PostgreSQL
-    - MySQL
-
-currently_learning:
-  - Clean Architecture
-  - Scalable Applications
-  - Advanced React Patterns
-  - Backend Development
+currently:
+  - Developing full stack projects
+  - Deepening my backend knowledge
+  - Exploring modern web technologies
 
 motto:
   "Beyond fear lies the world."
@@ -69,29 +52,15 @@ motto:
 
 ---
 
-# 🌙 Current Focus
+# ✨ A Little More About Me
 
 ```text
-✦ Full Stack Applications
-✦ React & TypeScript
-✦ REST APIs
-✦ Prisma ORM
-✦ PostgreSQL
-✦ Python Development
-✦ Clean Architecture
+💜 Software Engineering Student
+🚀 Full Stack Developer
+🌙 Coffee, code and late-night ideas
+📚 Always learning something new
+✨ Turning ideas into real digital solutions
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -120,7 +89,7 @@ motto:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/milena-de-oliveira-alves-6b04052a6/">
-<img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:milenayor020@gmail.com">
@@ -135,7 +104,7 @@ motto:
 
 ### 💜 Beyond fear lies the world.
 
-✨ Thanks for visiting my profile ✨
+<sub>Software Engineering Student • Full Stack Developer</sub>
 
 </div>
 
