@@ -1,5 +1,16 @@
+<div align="center">
 
-# Milena Oliveira Alves
+# ✨ Welcome to my GitHub
+
+### Milena Oliveira Alves
+
+*Full Stack Developer*
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🌙 About Me
 
@@ -33,6 +44,8 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
+
 ---
 
 <div align="center">
@@ -49,7 +62,7 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milenaalvez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=D8B4FE"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milenaalvez&theme=tokyonight"/>
 
 </div>
 
@@ -57,9 +70,9 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 <div align="center">
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Milenaalvez/Milenaalvez/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Milenaalvez/Milenaalvez/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
