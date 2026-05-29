@@ -1,10 +1,5 @@
-<div align="center">
 
 # Milena Oliveira Alves
-
-</div>
-
-<div align="center">
 
 ## 🌙 About Me
 
