@@ -1,10 +1,6 @@
 <div align="center">
 
-# ✨ Welcome to my GitHub
-
-### Milena Oliveira Alves
-
-*Full Stack Developer*
+# ✨ Hi, I'm Milena
 
 </div>
 
@@ -14,11 +10,9 @@
 
 ## 🌙 About Me
 
-Software Engineering student at **CEUB** focused on Full Stack Development.
+Software Engineering student at CEUB.
 
-Building modern web applications with React, TypeScript, Node.js, Python and relational databases.
-
-Passionate about technology, continuous learning and creating meaningful digital solutions.
+Passionate about technology, problem solving and building modern web applications.
 
 </div>
 
@@ -26,23 +20,71 @@ Passionate about technology, continuous learning and creating meaningful digital
 
 <div align="center">
 
-## 💜 Tech Stack
+## 💜 Technologies
 
 ### Front-End
 
-React • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind"/>
+
+<br><br>
 
 ### Back-End
 
-Node.js • Python • Prisma ORM
+<img src="https://skillicons.dev/icons?i=nodejs,python"/>
+
+<br><br>
 
 ### Database
 
-PostgreSQL • MySQL
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+<br><br>
 
 ### Tools
 
-Git • GitHub • VS Code • Figma
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Statistics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milenaalvez&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenaalvez&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milenaalvez&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Milenaalvez/Milenaalvez/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -63,33 +105,5 @@ Git • GitHub • VS Code • Figma
 </div>
 
 ---
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=Milenaalvez&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Milenaalvez/Milenaalvez/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Full Stack Developer
-
-<sub>Software Engineering Student • CEUB</sub>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=7C3AED"/>
